@@ -19,7 +19,7 @@ Los usuarios logueados pueden subir sus covers seleccionando a qué canción hac
 
 ### Modelo
 
-<img src="./freyaDER.drawio.png" alt="Diagrama Entidad-Relación" />
+<img src="./freyaDER.png" alt="Diagrama Entidad-Relación" />
 
 [Link del modelo (Draw.io)](https://drive.google.com/file/d/1L1wkW1Xfm1lXNH6RdNrZrJJFPBhCE_dF/view)
 
