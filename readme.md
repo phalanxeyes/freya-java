@@ -19,9 +19,9 @@ Los usuarios logueados pueden subir sus covers seleccionando a qué canción hac
 
 ### Modelo
 
-<img src="./images/DC-Proposal-MD.jpg" alt="Modelo de Dominio" />
+<img src="./freyaDER.drawio.png" alt="Diagrama Entidad-Relación" />
 
-[Link del modelo (Draw.io)](https://drive.google.com/file/d/1nvuqq4q7oPEYy1G9w3kx8abTgB54wVwt/view?usp=sharing)
+[Link del modelo (Draw.io)](https://drive.google.com/file/d/1L1wkW1Xfm1lXNH6RdNrZrJJFPBhCE_dF/view)
 
 ## Casos de Uso para la REGULARIDAD
 | Requerimiento | Detalle/Listado de casos incluidos |
