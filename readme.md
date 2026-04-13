@@ -7,8 +7,8 @@
 - 50345 - Esteves, Ignacio
 
 ### Repositorios
-- [front-end](LINK)
-- [back-end](LINK)
+- [front-end](https://github.com/phalanxeyes/freya-java-FE)
+- [back-end](https://github.com/phalanxeyes/freya-java-BE)
 
 ## Tema
 
