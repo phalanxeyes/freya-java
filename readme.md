@@ -33,14 +33,14 @@ Los usuarios logueados pueden subir sus covers seleccionando a qué canción hac
 | Listado Complejo | - |
 
 ## Casos de Uso para la AP DIRECTA
-| Requerimiento | Detalle/Listado de casos incluidos |
-| --- | --- |
-| ABMC |  |
-| CU "Complejo"(nivel resumen) |   |
-| Listado complejo |   |
-| Nivel de acceso |  |
-|Manejo de errores|  |
-| Publicar el sitio |  |
+| Requerimiento                | Detalle/Listado de casos incluidos                                                                            |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| CU "Complejo"(nivel resumen) | Administrador sube cancion oficial, Usuario sube cover de ella, Moderador lo evalúa                           |
+| Listado complejo             | Listado de Comentarios de Un Usuario, separadas por Cover. Filtros por fecha; Mayor o menor y rango de fecha. |
+| Nivel de acceso              | No-Logged Usuario, Logged Usuario, Moderador, Administrador                                                   |
+| Manejo de errores            | Manejo de errores a nivel API, expuestos en UI.                                                               |
+| Publicar el sitio            | -                                                                                                             |
+
 
 ### Requerimientos extra - AD
 | Requerimiento | Detalle/Listado de casos incluidos |
