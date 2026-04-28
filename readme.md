@@ -26,7 +26,7 @@ Los usuarios logueados pueden subir sus covers seleccionando a qué canción hac
 ## Casos de Uso para la REGULARIDAD
 | Requerimiento | Detalle/Listado de casos incluidos |
 | --- | --- |
-| ABMC Simple | Crear Usuario, Crear Artista |
+| ABMC Simple | Crear Usuario, Subir Canción |
 | ABMC Dependiente | Subir Cover |
 | CU NO-ABMC | Subir y aprobar cover |
 | Listado Simple | Listado de covers por cada usuario |
